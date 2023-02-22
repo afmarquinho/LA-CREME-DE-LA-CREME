@@ -2,7 +2,7 @@
 # Tienda virtual
 
 Tienda virtual de pasteles. Diseño responsivo. La funcionalidad de este proyecto está en mostarar un carro de compras realizado 100%.
-Deployment site:
+Deployment site: https://bejewelled-kelpie-b7967a.netlify.app
 # Contiene:
 HTML 
 CSS
